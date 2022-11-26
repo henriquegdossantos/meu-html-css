@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+article {
+    width: 800px;
+    margin: auto;
+}
+
+article pre {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.img1 {
+    background-image: url('imagens/background001.jpg');
+    height: 300px;
+    background-position:  center center;
+    color: white;
+}
+
+.img2 {
+    background-image: url('imagens/background002.jpg');
+    height: 300px;
+    background-position:  center center;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
